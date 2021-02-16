@@ -2,7 +2,7 @@ GBC-Design Patterns in Blockchain
 ===================================
 ### Lab2 - IPFS
 
-Goals:
+Goal:
 * Upload a file to IPFS from webpage
 * Store hash on blockchain
 * Read a back hash
