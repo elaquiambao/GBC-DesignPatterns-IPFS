@@ -13,7 +13,7 @@ Goal:
 React app:
 * Uploads and retrieves file to/from IPFS
 
-**Status: Completed and working app** 
+**Status: Ongoing** 
 
 ### Student Information
 
