@@ -6,10 +6,8 @@ import Footer from './components/Footer.js'
 import Upload from './components/Upload.js'
 import Retrieve from './components/Retrieve.js'
 
-// import ipfs from './ipfs'
-//hash = 'QmRL8GHFuQWQd93WhG2PexFxkys6veQbdjvb5N8XmAjrzU'
-
 function App() {
+  //   hash: 'QmRL8GHFuQWQd93WhG2PexFxkys6veQbdjvb5N8XmAjrzU'
   return (
     <Container fluid>
       <Header></Header>
